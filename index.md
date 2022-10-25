@@ -1,11 +1,7 @@
-## EISOP User Experience EISOPUX
+## EISOP User Experience
 
-## Checker Framework Live Demo
-
-To experience the
-[Checker Framework](http://checkerframework.org/)
-from within your browser, see our
-[Checker Framework Live Demo](http://eisop.uwaterloo.ca/live/).
+The [Enforcing, Inferring, and Synthesizing Optional Properties (EISOP) Framework](https://eisop.github.io/) project
+aims to provide a unified framework for optional properties in Java.
 
 
 ## Contact
